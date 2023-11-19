@@ -19,7 +19,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Emrah010&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h1 align="center">Support Me 🎧🎤  </h1>
+<h1 align="center">Technology Support 🤖 </h1>
 <p align="center">
 ⠀⠀⠀⠀⠀<img src="1.jpg">
 </p>
