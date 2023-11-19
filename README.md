@@ -20,7 +20,7 @@
 
 <h1 align="center">Support Me 🎧🎤  </h1>
 <p align="center">
-⠀⠀⠀⠀⠀<img src="1.JPG">
+⠀⠀⠀⠀⠀<img src="1.jpg">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
