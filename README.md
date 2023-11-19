@@ -26,6 +26,6 @@
 
 
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
