@@ -22,7 +22,7 @@
 <h1 align="center">Technology Support 🤖 </h1>
 <p align="center">
 ⠀⠀⠀⠀⠀<img src="1.jpg">
-</p>1
+</p>
 
 
 ![](https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
