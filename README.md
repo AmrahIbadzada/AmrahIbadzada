@@ -7,7 +7,7 @@
 <p align="center">
   <b>Software Engineer • Open Source Enthusiast • Problem Solver</b><br>
  I focus on building reliable, scalable, and maintainable software solutions.</br>
-  <i>For me, code is a tool — the real goal is solving real-world problems and delivering meaningful impact through technology.</i>
+  <i>For me, code is a tool - the real goal is solving real-world problems and delivering meaningful impact through technology.</i>
 </p>
 
 ---
