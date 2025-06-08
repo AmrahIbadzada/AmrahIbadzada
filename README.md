@@ -84,7 +84,7 @@
 
 > Interested in collaborating on open-source projects, freelance work, or technical consulting?  
 > Need help with coding, design, or project development?  
-> <b>Feel free to reach out via LinkedIn or email: amrah.dev@gmail.com</b>
+> <b>Feel free to reach out via LinkedIn or email: emrahibadzade5@gmail.com</b>
 
 ---
 
