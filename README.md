@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer • UI/UX Designer • Open Source Enthusiast</b><br>
-  I focus on building sustainable and impactful digital solutions.<br>
-  <i>Passionate about the intersection of code, design, and innovation.</i>
+  <b>Software Engineer • Open Source Enthusiast • Problem Solver</b>
+ I focus on building reliable, scalable, and maintainable software solutions.
+  <i>For me, code is a tool — the real goal is solving real-world problems and delivering meaningful impact through technology.</i>
 </p>
 
 ---
