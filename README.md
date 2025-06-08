@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Amrah!</h1>
 
 <p align="center">
-  <img src="Profile LinkedIn Banner.png" alt="Amrah's Profile Photo" width="260" style="border-radius:50%; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom:20px;">
+  <img src="Profile LinkedIn Banner.png" alt="Amrah's Profile Photo" width="260" style="border-radius:100%; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-bottom:20px;">
 </p>
 
 <p align="center">
