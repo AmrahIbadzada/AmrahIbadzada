@@ -82,8 +82,8 @@
 
 ## 💡 How Can I Help You?
 
-> Interested in collaborating on open-source projects, freelance work, or technical consulting?  
-> Need help with coding, design, or project development?  
+> Interested in collaborating on open-source projects, freelance work, or technical consulting?
+> Need help with coding or software development? 
 > <b>Feel free to reach out via LinkedIn or email: emrahibadzade5@gmail.com</b>
 
 ---
