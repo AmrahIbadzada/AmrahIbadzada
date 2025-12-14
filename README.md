@@ -76,9 +76,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+</p> profil goruntuleme evvelki versiya--> 
 
 <!--
 This profile README is carefully crafted for a professional appearance.
