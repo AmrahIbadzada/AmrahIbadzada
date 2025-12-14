@@ -30,32 +30,32 @@
 
 ## 📊 GitHub Stats
 <!-- Responsive, repo-width friendly layout (images resized and centered) -->
-<!-- Images limited to 320px width so they stay readable but not too large. -->
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;width:100%;box-sizing:border-box;">
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;width:100%;box-sizing:border-box;">
 
-  <!-- Left card: GitHub stats (centered, max 320px) -->
-  <div style="flex:1 1 200px;max-width:200px;box-sizing:border-box;text-align:center;">
+  <!-- Left card: GitHub stats -->
+  <div style="flex:1 1 280px;max-width:280px;box-sizing:border-box;text-align:center;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
       alt="GitHub stats"
-      style="width:100%;max-width:320px;height:auto;border-radius:8px;display:block;margin:0 auto;"/>
+      style="width:100%;max-width:280px;height:auto;border-radius:6px;display:block;margin:0 auto;"/>
   </div>
 
-  <!-- Right card: Top languages (centered, max 320px) -->
-  <div style="flex:1 1 200px;max-width:200px;box-sizing:border-box;text-align:center;">
+  <!-- Right card: Top languages -->
+  <div style="flex:1 1 280px;max-width:280px;box-sizing:border-box;text-align:center;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
       alt="Top languages"
-      style="width:100%;max-width:200px;height:auto;border-radius:8px;display:block;margin:0 auto;;"/>
+      style="width:100%;max-width:280px;height:auto;border-radius:6px;display:block;margin:0 auto;"/>
   </div>
 
 </div>
 
 <!-- Badges below (centered) -->
-<p align="center" style="margin-top:10px;">
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" />
+<p align="center" style="margin-top:8px;">
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" style="height:20px;"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" style="height:20px;"/>
 </p>
+
 
 
 ---
