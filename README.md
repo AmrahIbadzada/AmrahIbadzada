@@ -37,14 +37,14 @@
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;align-items:flex-start;">
 
   <!-- GitHub stats -->
-  <div style="flex:1 1 180px;max-width:180px;">
+  <div style="flex:1 1 180px;max-width:180px;width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=false&count_private=false"
          alt="GitHub stats"
          style="max-width:180px;max-height:120px;height:auto;border-radius:6px;object-fit:contain;"/>
   </div>
 
   <!-- Top languages (dil hissəsi) -->
-  <div style="flex:1 1 150px;max-width:150px;">
+  <div style="flex:1 1 150px;max-width:150px;width:100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_title=true&hide_border=true"
          alt="Top languages"
          style="max-width:150px;max-height:100px;height:auto;border-radius:6px;object-fit:contain;"/>
