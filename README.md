@@ -34,19 +34,19 @@
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;width:100%;box-sizing:border-box;">
 
   <!-- Left card: GitHub stats (centered, max 320px) -->
-  <div style="flex:0 1 320px;max-width:320px;box-sizing:border-box;text-align:center;">
+  <div style="flex:1 1 320px;max-width:320px;box-sizing:border-box;text-align:center;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
       alt="GitHub stats"
-      style="width:100%;max-width:320px;height:auto;border-radius:8px;display:inline-block;"/>
+      style="width:50%;max-width:320px;height:auto;border-radius:8px;display:inline-block;"/>
   </div>
 
   <!-- Right card: Top languages (centered, max 320px) -->
-  <div style="flex:0 1 320px;max-width:320px;box-sizing:border-box;text-align:center;">
+  <div style="flex:1 1 320px;max-width:320px;box-sizing:border-box;text-align:center;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
       alt="Top languages"
-      style="width:100%;max-width:320px;height:auto;border-radius:8px;display:inline-block;"/>
+      style="width:50%;max-width:320px;height:auto;border-radius:8px;display:inline-block;"/>
   </div>
 
 </div>
