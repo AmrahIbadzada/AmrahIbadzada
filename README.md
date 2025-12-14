@@ -33,33 +33,30 @@
   <strong>📊 GitHub Stats</strong>
 </p>
 
-<!-- Centered, smaller cards -->
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;width:100%;box-sizing:border-box;">
+<!-- Container with centered content -->
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:12px;">
 
-  <!-- GitHub stats card -->
-  <div style="flex:0 1 220px;max-width:220px;text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&card_width=220"
+  <!-- GitHub stats -->
+  <div style="width:50%; max-width:300px; display:inline-block; text-align:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
          alt="GitHub stats"
-         style="width:100%;height:auto;border-radius:8px;"/>
+         style="width:100%; max-height:160px; border-radius:8px; object-fit:contain;"/>
   </div>
 
-  <!-- Top languages card -->
-  <div style="flex:0 1 220px;max-width:220px;text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true&card_width=220"
+  <!-- Top languages -->
+  <div style="width:50%; max-width:300px; display:inline-block; text-align:center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
          alt="Top languages"
-         style="width:100%;height:auto;border-radius:8px;"/>
+         style="width:100%; max-height:160px; border-radius:8px; object-fit:contain;"/>
   </div>
 
 </div>
 
-<!-- Badges below, centered -->
-<p align="center" style="margin-top:8px;">
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" style="height:18px;"/>
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views
-
-
-
-
+<!-- Badges below -->
+<p align="center" style="margin-top:10px;">
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" height="16"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" height="16"/>
+</p>
 
 
 
@@ -70,6 +67,8 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="top contributed repos"/>
 </p>
+
+---
 
 ---
 
