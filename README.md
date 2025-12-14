@@ -29,11 +29,11 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Compact and centered GitHub stats layout -->
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;width:100%;box-sizing:border-box;">
+<!-- Extra compact and centered GitHub stats layout -->
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;width:100%;box-sizing:border-box;">
 
   <!-- GitHub stats card -->
-  <div style="flex:1 1 280px;max-width:280px;text-align:center;transform: scale(0.75);transform-origin: top center;">
+  <div style="flex:1 1 280px;max-width:280px;text-align:center;transform: scale(0.6);transform-origin: top center;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
       alt="GitHub stats"
@@ -41,7 +41,7 @@
   </div>
 
   <!-- Top languages card -->
-  <div style="flex:1 1 280px;max-width:280px;text-align:center;transform: scale(0.75);transform-origin: top center;">
+  <div style="flex:1 1 280px;max-width:280px;text-align:center;transform: scale(0.6);transform-origin: top center;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
       alt="Top languages"
@@ -51,10 +51,11 @@
 </div>
 
 <!-- Badges below (centered) -->
-<p align="center" style="margin-top:8px;">
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" style="height:20px;"/>
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" style="height:20px;"/>
+<p align="center" style="margin-top:6px;">
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" style="height:18px;"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" style="height:18px;"/>
 </p>
+
 
 
 
