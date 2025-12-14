@@ -29,26 +29,33 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Responsive side-by-side, extra small size -->
+<!-- Mini stats container -->
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;align-items:flex-start;">
+
+  <!-- GitHub stats -->
   <div style="flex:1 1 150px;max-width:150px;width:100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+    <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=false&count_private=false"
          alt="GitHub stats"
-         style="width:100%;max-width:150px;max-height:100px;height:auto;border-radius:4px;object-fit:contain;"/>
+         width="150"
+         style="height:auto;border-radius:4px;"/>
   </div>
 
+  <!-- Top languages -->
   <div style="flex:1 1 150px;max-width:150px;width:100%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_title=true&hide_border=true"
          alt="Top languages"
-         style="width:100%;max-width:150px;max-height:100px;height:auto;border-radius:4px;object-fit:contain;"/>
+         width="150"
+         style="height:auto;border-radius:4px;"/>
   </div>
+
 </div>
 
-<!-- Extra small badges -->
+<!-- Mini badges -->
 <p align="center" style="margin-top:6px;">
   <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" height="16"/>
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" height="16"/>
 </p>
+
 
 
 ---
