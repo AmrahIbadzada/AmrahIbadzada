@@ -37,6 +37,7 @@
 </p>
 
 <p align="center">
+  <!-- Try the simpler trophy URL first: -->
   <img src="https://github-profile-trophy.vercel.app/?username=AmrahIbadzada&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy"/>
 </p>
 
