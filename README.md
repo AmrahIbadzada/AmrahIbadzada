@@ -29,29 +29,29 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Responsive, repo-width friendly layout -->
-<!-- This layout fills the available repo content width and adapts: on wide screens it shows two cards side-by-side; on narrow screens they stack. -->
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;width:100%;box-sizing:border-box;">
+<!-- Responsive, repo-width friendly layout (images resized and centered) -->
+<!-- Images limited to 320px width so they stay readable but not too large. -->
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;width:100%;box-sizing:border-box;">
 
-  <!-- Left card: GitHub stats -->
-  <div style="flex:1 1 48%;min-width:240px;box-sizing:border-box;">
+  <!-- Left card: GitHub stats (centered, max 320px) -->
+  <div style="flex:0 1 320px;max-width:320px;box-sizing:border-box;text-align:center;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
       alt="GitHub stats"
-      style="width:100%;height:auto;border-radius:8px;display:block;"/>
+      style="width:100%;max-width:320px;height:auto;border-radius:8px;display:inline-block;"/>
   </div>
 
-  <!-- Right card: Top languages -->
-  <div style="flex:1 1 48%;min-width:240px;box-sizing:border-box;">
+  <!-- Right card: Top languages (centered, max 320px) -->
+  <div style="flex:0 1 320px;max-width:320px;box-sizing:border-box;text-align:center;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
       alt="Top languages"
-      style="width:100%;height:auto;border-radius:8px;display:block;"/>
+      style="width:100%;max-width:320px;height:auto;border-radius:8px;display:inline-block;"/>
   </div>
 
 </div>
 
-<!-- Badges below -->
+<!-- Badges below (centered) -->
 <p align="center" style="margin-top:10px;">
   <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" />
