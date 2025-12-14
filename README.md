@@ -33,29 +33,30 @@
   <strong>📊 GitHub Stats</strong>
 </p>
 
-<!-- Responsive side-by-side with smaller "standard" size -->
+<!-- Responsive side-by-side with 50% width images, centered -->
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;align-items:flex-start;">
-  <div style="flex:1 1 300px;max-width:300px;width:100%;">
+
+  <!-- GitHub stats -->
+  <div style="flex:1 1 300px;max-width:300px;width:100%; display:flex; justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
          alt="GitHub stats"
          style="width:50%;max-width:300px;max-height:160px;height:auto;border-radius:8px;object-fit:contain;"/>
   </div>
 
-  <div style="flex:1 1 300px;max-width:300px;width:100%;">
+  <!-- Top languages -->
+  <div style="flex:1 1 300px;max-width:300px;width:100%; display:flex; justify-content:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
          alt="Top languages"
          style="width:50%;max-width:300px;max-height:160px;height:auto;border-radius:8px;object-fit:contain;"/>
   </div>
+
 </div>
 
-<!-- Badges below (optional) -->
+<!-- Badges below -->
 <p align="center" style="margin-top:10px;">
   <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers"/>
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views"/>
 </p>
-
-
-
 
 
 ---
