@@ -35,16 +35,15 @@
 </p>
 
 <p align="center">
+  <!-- Top languages card (github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages",height="150 />
+</p>
+
+<p align="center">
   <!-- followers + profile views badges -->
   <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers"/>
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views"/>
 </p>
-
-<p align="center">
-  <!-- Top languages card (github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 
 ---
 
