@@ -30,21 +30,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" 
-       alt="Amrah's GitHub stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Amrah's GitHub stats" height="170"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahIbadzada&theme=tokyonight&hide_border=true" alt="Amrah's Streak" height="250"/> -->
 </p>
 
 <p align="center">
-  <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" 
-       alt="Top languages" height="120"/>
+  <!-- followers + profile views badges -->
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <!-- Followers + profile views badges -->
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" height="18"/>
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" height="18"/>
+  <!-- Top languages card (github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 
