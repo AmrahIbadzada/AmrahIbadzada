@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Responsive side-by-side with smaller size -->
+<!-- Responsive side-by-side optimized size -->
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;align-items:flex-start;">
 
   <!-- GitHub stats -->
@@ -45,6 +45,15 @@
          alt="Top languages"
          style="width:100%;height:auto;max-width:150px;max-height:100px;border-radius:5px;object-fit:contain;"/>
   </div>
+
+</div>
+
+<!-- Mini badges -->
+<p align="center" style="margin-top:5px;">
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" height="14"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" height="14"/>
+</p>
+
 
 </div>
 
