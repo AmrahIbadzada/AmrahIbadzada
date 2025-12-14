@@ -29,35 +29,33 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <strong>📊 GitHub Stats</strong>
-</p>
+<!-- Responsive, repo-width friendly layout -->
+<!-- This layout fills the available repo content width and adapts: on wide screens it shows two cards side-by-side; on narrow screens they stack. -->
+<div style="display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;width:100%;box-sizing:border-box;">
 
-<!-- Container with centered content -->
-<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:12px;">
-
-  <!-- GitHub stats -->
-  <div style="width:50%; max-width:300px; display:inline-block; text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
-         alt="GitHub stats"
-         style="width:100%; max-height:160px; border-radius:8px; object-fit:contain;"/>
+  <!-- Left card: GitHub stats -->
+  <div style="flex:1 1 48%;min-width:240px;box-sizing:border-box;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+      alt="GitHub stats"
+      style="width:100%;height:auto;border-radius:8px;display:block;"/>
   </div>
 
-  <!-- Top languages -->
-  <div style="width:50%; max-width:300px; display:inline-block; text-align:center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
-         alt="Top languages"
-         style="width:100%; max-height:160px; border-radius:8px; object-fit:contain;"/>
+  <!-- Right card: Top languages -->
+  <div style="flex:1 1 48%;min-width:240px;box-sizing:border-box;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
+      alt="Top languages"
+      style="width:100%;height:auto;border-radius:8px;display:block;"/>
   </div>
 
 </div>
 
 <!-- Badges below -->
 <p align="center" style="margin-top:10px;">
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" height="16"/>
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" height="16"/>
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" />
 </p>
-
 
 
 ---
