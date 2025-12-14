@@ -33,30 +33,31 @@
   <strong>📊 GitHub Stats</strong>
 </p>
 
-<!-- Responsive side-by-side with 50% width images, centered -->
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;align-items:flex-start;">
+<!-- Container with centered content -->
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:12px;">
 
   <!-- GitHub stats -->
-  <div style="flex:1 1 300px;max-width:300px;width:100%; display:flex; justify-content:center;">
+  <div style="width:50%; max-width:300px; display:inline-block; text-align:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
          alt="GitHub stats"
-         style="width:50%;max-width:300px;max-height:160px;height:auto;border-radius:8px;object-fit:contain;"/>
+         style="width:100%; max-height:160px; border-radius:8px; object-fit:contain;"/>
   </div>
 
   <!-- Top languages -->
-  <div style="flex:1 1 300px;max-width:300px;width:100%; display:flex; justify-content:center;">
+  <div style="width:50%; max-width:300px; display:inline-block; text-align:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
          alt="Top languages"
-         style="width:50%;max-width:300px;max-height:160px;height:auto;border-radius:8px;object-fit:contain;"/>
+         style="width:100%; max-height:160px; border-radius:8px; object-fit:contain;"/>
   </div>
 
 </div>
 
 <!-- Badges below -->
 <p align="center" style="margin-top:10px;">
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" height="16"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" height="16"/>
 </p>
+
 
 
 ---
