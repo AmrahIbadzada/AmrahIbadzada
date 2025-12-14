@@ -29,32 +29,29 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Responsive, compact GitHub stats layout -->
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;width:100%;box-sizing:border-box;">
 
-  <!-- Left card: GitHub stats -->
-  <div style="flex:1 1 280px;max-width:280px;box-sizing:border-box;text-align:center;">
+  <div style="flex:1 1 280px;max-width:280px;text-align:center;transform: scale(0.75);transform-origin: top center;">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&card_width=280"
+      src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
       alt="GitHub stats"
-      style="width:100%;max-width:280px;height:auto;border-radius:6px;display:block;margin:0 auto;"/>
+      style="width:100%;height:auto;border-radius:6px;display:block;margin:0 auto;"/>
   </div>
 
-  <!-- Right card: Top languages -->
-  <div style="flex:1 1 280px;max-width:280px;box-sizing:border-box;text-align:center;">
+  <div style="flex:1 1 280px;max-width:280px;text-align:center;transform: scale(0.75);transform-origin: top center;">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true&card_width=280"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
       alt="Top languages"
-      style="width:100%;max-width:280px;height:auto;border-radius:6px;display:block;margin:0 auto;"/>
+      style="width:100%;height:auto;border-radius:6px;display:block;margin:0 auto;"/>
   </div>
 
 </div>
 
-<!-- Badges below (centered) -->
 <p align="center" style="margin-top:8px;">
   <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" style="height:20px;"/>
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" style="height:20px;"/>
 </p>
+
 
 ---
 
