@@ -70,8 +70,6 @@
 
 ---
 
----
-
 ## 🐍 Contribution Animation
 
 <p align="center">
