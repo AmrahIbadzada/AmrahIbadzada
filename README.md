@@ -31,12 +31,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Amrah's GitHub stats" height="170"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahIbadzada&theme=tokyonight&hide_border=true" alt="Amrah's Streak" height="250"/> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahIbadzada&theme=tokyonight&hide_border=true" alt="Amrah's Streak" height="500"/> -->
 </p>
 
 <p align="center">
   <!-- Top languages card (github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages",height="150 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages",height="350 />
 </p>
 
 <p align="center">
