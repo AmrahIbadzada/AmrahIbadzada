@@ -29,18 +29,18 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Responsive side-by-side with smaller size -->
+<!-- Responsive side-by-side with smaller "standard" size -->
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;align-items:flex-start;">
-  <div style="flex:1 1 320px;max-width:320px;width:100%;">
+  <div style="flex:1 1 300px;max-width:300px;width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
          alt="GitHub stats"
-         style="width:100%;max-width:320px;max-height:200px;height:auto;border-radius:8px;object-fit:contain;"/>
+         style="width:100%;max-width:300px;max-height:160px;height:auto;border-radius:8px;object-fit:contain;"/>
   </div>
 
-  <div style="flex:1 1 320px;max-width:320px;width:100%;">
+  <div style="flex:1 1 300px;max-width:300px;width:100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
          alt="Top languages"
-         style="width:100%;max-width:320px;max-height:200px;height:auto;border-radius:8px;object-fit:contain;"/>
+         style="width:100%;max-width:300px;max-height:160px;height:auto;border-radius:8px;object-fit:contain;"/>
   </div>
 </div>
 
@@ -48,7 +48,7 @@
 <p align="center" style="margin-top:10px;">
   <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers"/>
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views"/>
-</p>>
+</p>
 
 ---
 
