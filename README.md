@@ -29,21 +29,21 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Ultra compact and centered GitHub stats layout -->
+<!-- Compact and centered GitHub stats layout (minimum possible size) -->
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;width:100%;box-sizing:border-box;">
 
   <!-- GitHub stats card -->
-  <div style="flex:1 1 280px;max-width:280px;text-align:center;transform: scale(0.5);transform-origin: top center;">
+  <div style="flex:1 1 260px;max-width:260px;text-align:center;">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
+      src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&card_width=260&layout=compact"
       alt="GitHub stats"
       style="width:100%;height:auto;border-radius:6px;display:block;margin:0 auto;"/>
   </div>
 
   <!-- Top languages card -->
-  <div style="flex:1 1 280px;max-width:280px;text-align:center;transform: scale(0.5);transform-origin: top center;">
+  <div style="flex:1 1 260px;max-width:260px;text-align:center;">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true&card_width=260"
       alt="Top languages"
       style="width:100%;height:auto;border-radius:6px;display:block;margin:0 auto;"/>
   </div>
@@ -51,10 +51,11 @@
 </div>
 
 <!-- Badges below (centered) -->
-<p align="center" style="margin-top:5px;">
+<p align="center" style="margin-top:6px;">
   <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" style="height:16px;"/>
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" style="height:16px;"/>
 </p>
+
 
 
 
