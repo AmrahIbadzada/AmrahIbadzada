@@ -29,30 +29,31 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Responsive side-by-side with controlled size -->
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px;align-items:flex-start;">
+<!-- Responsive side-by-side with smaller size -->
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px;align-items:flex-start;">
 
   <!-- GitHub stats -->
-  <div style="flex:1 1 200px;max-width:200px;width:100%;">
+  <div style="flex:1 1 180px;max-width:180px;width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=false&count_private=false"
          alt="GitHub stats"
-         style="width:100%;height:auto;max-width:220px;max-height:150px;border-radius:6px;object-fit:contain;"/>
+         style="width:100%;height:auto;max-width:180px;max-height:120px;border-radius:5px;object-fit:contain;"/>
   </div>
 
   <!-- Top languages -->
-  <div style="flex:1 1 200px;max-width:200px;width:100%;">
+  <div style="flex:1 1 150px;max-width:150px;width:100%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_title=true&hide_border=true"
          alt="Top languages"
-         style="width:100%;height:auto;max-width:220px;max-height:150px;border-radius:6px;object-fit:contain;"/>
+         style="width:100%;height:auto;max-width:150px;max-height:100px;border-radius:5px;object-fit:contain;"/>
   </div>
 
 </div>
 
 <!-- Mini badges -->
-<p align="center" style="margin-top:6px;">
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" height="16"/>
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" height="16"/>
+<p align="center" style="margin-top:5px;">
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers" height="14"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views" height="14"/>
 </p>
+
 
 
 
