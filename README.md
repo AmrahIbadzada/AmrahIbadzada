@@ -32,7 +32,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Amrah's GitHub stats" height="170"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahIbadzada&theme=tokyonight&hide_border=true" alt="Amrah's Streak" height="170"/> -->
+  <!-- Uncomment the next line if you want streak stats (service may be unstable): -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahIbadzada&theme=tokyonight&hide_border=true" alt="Amrah's Streak" height="170"/> -->
 </p>
 
 <p align="center">
