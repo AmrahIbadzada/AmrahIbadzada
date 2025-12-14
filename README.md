@@ -30,9 +30,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Daha etibarlı alternativ: followers + profile views badges -->
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Amrah's GitHub stats" height="170"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahIbadzada&theme=tokyonight&hide_border=true" alt="Amrah's Streak" height="170"/> -->
 </p>
 
 <p align="center">
@@ -40,6 +39,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
+<p align="center">
+  <!-- Daha etibarlı alternativ: followers + profile views badges -->
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views"/>
+</p>
 
 ---
 
