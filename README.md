@@ -31,11 +31,11 @@
 ## 📊 GitHub Stats
 <!-- Responsive side-by-side (preferred) -->
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;align-items:flex-start;">
-  <div style="max-width:520px;width:100%;">
+  <div style="max-width:520px;width:50%;">
     <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" style="width:100%;height:auto;border-radius:8px;"/>
   </div>
 
-  <div style="max-width:520px;width:100%;">
+  <div style="max-width:520px;width:50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" style="width:100%;height:auto;border-radius:8px;"/>
   </div>
 </div>
