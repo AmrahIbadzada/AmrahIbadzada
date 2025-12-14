@@ -37,8 +37,8 @@
 </p>
 
 <p align="center">
-  <!-- Simpler trophy URL (no extra params). If this fails, the service may be down. -->
-  ![trophy](https://github-profile-trophy.vercel.app/?username=AmrahIbadzada&theme=radical)
+  <!-- Top languages card (github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
