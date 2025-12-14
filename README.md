@@ -29,16 +29,21 @@
 ---
 
 ## 📊 GitHub Stats
+<!-- Responsive side-by-side (preferred) -->
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:20px;align-items:flex-start;">
+  <div style="max-width:520px;width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" style="width:100%;height:auto;border-radius:8px;"/>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="Amrah's GitHub stats" height="170"/>
-  <!-- Uncomment the next line if you want streak stats (service may be unstable): -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmrahIbadzada&theme=tokyonight&hide_border=true" alt="Amrah's Streak" height="170"/> -->
-</p>
+  <div style="max-width:520px;width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" style="width:100%;height:auto;border-radius:8px;"/>
+  </div>
+</div>
 
-<p align="center">
-  <!-- Top languages card (github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<!-- Badges below (optional) -->
+<p align="center" style="margin-top:14px;">
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&color=brightgreen" alt="Profile views"/>
 </p>
 
 ---
