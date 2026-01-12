@@ -56,7 +56,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&amp;limit=5&amp;theme=onedark&amp;combine_all_yearly_contributions=true" alt="top contributed repos"/>
 </p>
 
----
+----
 
 ## 🐍 Contribution Animation
 
