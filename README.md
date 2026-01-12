@@ -47,7 +47,6 @@
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&amp;color=brightgreen" alt="Profile views" height="24"/>
 </div>
 
-
 ---
 
 ## 🔝 Top Contributed Repositories
