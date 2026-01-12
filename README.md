@@ -32,19 +32,19 @@
 <!-- GitHub Stats (wide, compact height) -->
 <div align="center" style="margin-bottom: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=AmrahIbadzada&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;card_width=600" 
-       alt="Amrah's GitHub stats" height="220"/>
+       alt="Amrah's GitHub stats" height="220" />
 </div>
 
 <!-- Top Languages (wide, compact height) -->
 <div align="center" style="margin-bottom: 15px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrahIbadzada&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=600" 
-       alt="Top languages" height="220"/>
+       alt="Top languages" height="220" />
 </div>
 
 <!-- Followers + Profile Views Badges -->
 <div align="center" style="margin-bottom: 15px;">
-  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&amp;style=social" alt="Followers" height="24"/>
-  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&amp;color=brightgreen" alt="Profile views" height="24"/>
+  <img src="https://img.shields.io/github/followers/AmrahIbadzada?label=Followers&amp;style=social" alt="Followers" height="24" />
+  <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&amp;color=brightgreen" alt="Profile views" height="24" />
 </div>
 
 ---
@@ -52,10 +52,10 @@
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&amp;limit=5&amp;theme=onedark&amp;combine_all_yearly_contributions=true" alt="top contributed repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&amp;limit=5&amp;theme=onedark&amp;combine_all_yearly_contributions=true" alt="top contributed repos" />
 </p>
 
-----
+---
 
 ## 🐍 Contribution Animation
 
