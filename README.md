@@ -56,10 +56,6 @@
   <img src="/assets/top-contributed.png" alt="top contributed repos" />
 </p>
 
-<!-- Fallback link (görünməzsə oradan yoxlaya bilərsiniz):
-https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&limit=5&theme=onedark&combine_all_yearly_contributions=true
--->
-
 ---
 
 ## 🐍 Contribution Animation
