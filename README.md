@@ -15,7 +15,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emrah-ibadzade-30b51929a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://az.linkedin.com/in/amrah-ibadzada/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/amrahibadzada/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100010309981655"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
 </p>
@@ -54,6 +54,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrahIbadzada&theme=nord&hide_border=true" alt="Contribution Graph" />
 </div>
+
 ---
 
 ## 🐍 Contribution Animation
