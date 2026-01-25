@@ -52,7 +52,7 @@
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&amp;limit=5&amp;theme=onedark&amp;combine_all_yearly_contributions=true" alt="top contributed repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&limit=5&theme=onedark&combine_all_yearly_contributions=true" alt="top contributed repos" />
 </p>
 
 ---
