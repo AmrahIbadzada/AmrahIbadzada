@@ -49,12 +49,11 @@
 
 ---
 
-## 🔝 Projects (visual)
+## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmrahIbadzada&repo=project-one&theme=tokyonight" alt="project-one" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmrahIbadzada&repo=project-two&theme=tokyonight" alt="project-two" />
-</p>>
+  <img src="https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&amp;limit=5&amp;theme=onedark&amp;combine_all_yearly_contributions=true" alt="top contributed repos" />
+</p>
 
 ---
 
