@@ -49,12 +49,12 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🔝 Projects (visual)
 
 <p align="center">
-  <!-- This image is updated automatically by .github/workflows/update-top-contrib.yml -->
-  <img src="/assets/top-contributed.png" alt="top contributed repos" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmrahIbadzada&repo=project-one&theme=tokyonight" alt="project-one" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmrahIbadzada&repo=project-two&theme=tokyonight" alt="project-two" />
+</p>>
 
 ---
 
