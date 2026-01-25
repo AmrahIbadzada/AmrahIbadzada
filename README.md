@@ -49,11 +49,11 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AmrahIbadzada&amp;limit=5&amp;theme=onedark&amp;combine_all_yearly_contributions=true" alt="top contributed repos" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrahIbadzada&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
