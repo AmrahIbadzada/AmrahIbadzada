@@ -52,7 +52,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrahIbadzada&theme=gruvbox&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrahIbadzada&theme=solarized-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 ---
 
