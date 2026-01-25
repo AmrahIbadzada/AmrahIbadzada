@@ -15,7 +15,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emrah-ibadzade-30b51929a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://[www.linkedin.com/in/emrah-ibadzade-30b51929a/](https://az.linkedin.com/in/amrah-ibadzada)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/amrahibadzada/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/profile.php?id=100010309981655"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
 </p>
@@ -65,10 +65,13 @@
 
 ---
 
-## 💡 How Can I Help You?
+## 🔦 How Can I Help You?
 
 > Interested in collaborating on open-source projects, freelance work, or technical consulting?
-> Need help with coding or software development? 
+I'm always interested in discussing new projects, ideas, and opportunities!
+
+📧 **Email:** emrahibadzade5@gmail.com  
+⛓️‍💥 **LinkedIn:** [Amrah Ibadzada]<a href="https://[www.linkedin.com/in/emrah-ibadzade-30b51929a/](https://az.linkedin.com/in/amrah-ibadzada)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 > <b>Feel free to reach out via LinkedIn or email: emrahibadzade5@gmail.com</b>
 
 ---
