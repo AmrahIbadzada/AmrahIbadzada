@@ -72,9 +72,8 @@
 I'm always interested in discussing new projects, ideas, and opportunities!
 
 📧 **Email:** emrahibadzade5@gmail.com  
-⛓️‍💥 **LinkedIn:** [Amrah Ibadzada]<a href="https://www.linkedin.com/in/emrah-ibadzade-30b51929a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+⛓️‍💥 **LinkedIn:** [Amrah Ibadzada] <a href="https://az.linkedin.com/in/amrah-ibadzada/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 
----
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmrahIbadzada&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
