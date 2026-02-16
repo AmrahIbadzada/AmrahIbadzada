@@ -24,7 +24,7 @@
 
 ## 📔 My Skill Set
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,vue,vite,react,nextjs,express,ts,git,anaconda,py,cpp,java,mysql,spring&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,express,nodejs,mongodb,vue,vite,react,nextjs,ts,git,anaconda,py,cpp,java,mysql,spring&theme=light" />
 </p>
 
 ---
