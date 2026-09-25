@@ -51,6 +51,7 @@
     alt="Amrah Ibadzada's GitHub contribution overview"
   />
 </div>
+
 ---
 
 ## 🐍 Contribution Animation
