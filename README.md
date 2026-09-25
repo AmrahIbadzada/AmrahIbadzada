@@ -46,17 +46,31 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmrahIbadzada&theme=nord&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrahIbadzada&theme=github_dark"
+    alt="Amrah Ibadzada's GitHub contribution overview"
+  />
 </div>
-
 ---
 
 ## 🐍 Contribution Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
-  <img src="https://raw.githubusercontent.com/MayMeow/MayMeow/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light"/>
-</p>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AmrahIbadzada/AmrahIbadzada/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AmrahIbadzada/AmrahIbadzada/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution grid snake animation"
+      src="https://raw.githubusercontent.com/AmrahIbadzada/AmrahIbadzada/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
 ---
 
