@@ -47,7 +47,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrahIbadzada&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmrahIbadzada&theme=tokyonight"
     alt="Amrah Ibadzada's GitHub contribution overview"
   />
 </div>
