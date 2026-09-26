@@ -13,8 +13,10 @@ jobs:
       contents: write
 
     steps:
+      - uses: actions/checkout@v3
+
       - name: Generate snake animation
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
         with:
           github_user_name: AmrahIbadzada
           outputs: |
@@ -22,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish snake animation
-        uses: peaceiris/actions-gh-pages@v4.3.0
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
